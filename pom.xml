@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-markdown-directive</artifactId>
-    <version>0.3.0</version>
+    <version>0.3.1-SNAPSHOT</version>
     <name>angular-markdown-directive</name>
     <description>WebJar for angular-markdown-directive</description>
     <url>http://webjars.org</url>
@@ -56,7 +56,7 @@
         <url>http://github.com/webjars/angular-markdown-directive</url>
         <connection>scm:git:https://github.com/webjars/angular-markdown-directive.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-markdown-directive.git</developerConnection>
-        <tag>angular-markdown-directive-0.3.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
